@@ -1,0 +1,11 @@
+.boxy {
+  color: black;
+  border: 1px solid rgb(61, 55, 55);
+  border-radius: 7px;
+  /* background: rgba(255, 255, 255, 0.753); */
+  background: rgba(173, 218, 241, 0.753);
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
